@@ -12,14 +12,14 @@ I'm a 3rd-year Computer Science student at Moscow Aviation Institute. A 20-year-
 - 👯 I’m looking for opportunities to join a dynamic team as a backend developer, contribute to impactful projects, and grow professionally.
 - 🤔 I’m looking for guidance in optimizing backend performance, working with cloud infrastructures, and mastering system architecture best practices.
 
-## :fire: My Stats:
+## :fire: My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukorp&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Technologies and Tools
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64" height="64" alt="Java">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="64" height="64" alt="Spring Boot"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="64" height="64" alt="PostgreSQL"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="64" height="64" alt="Apache Kafka"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="64" height="64" alt="Docker">
