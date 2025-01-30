@@ -4,13 +4,13 @@
 My name is Timur, I am a Java backend developer
 
 ## 🌟 Who am I?
-I am a 20 year old 3rd year student of the Moscow Aviation Institute. I develop web services in Java, actively voice and implement new technologies in my projects, solve complex problems with code optimization, try to follow all the principles of software development
+I am a 20-year-old 3rd-year student of the Moscow Aviation Institute. I develop web services in Java, actively voice and implement new technologies in my projects, solve complex problems with code optimization, try to follow all the principles of software development
 
 ## ✨ What do I do?
 
 - 🌱 I’m currently learning Java, Spring, databases, and backend development technologies to build robust systems.
-- 👯 I’m looking for opportunities to join a dynamic team as a backend developer, contribute to impactful projects, and grow professionally.
-- 🤔 I’m looking for guidance in optimizing backend performance, working with cloud infrastructures, and mastering system architecture best practices.
+- 👯 Looking for opportunities to join a dynamic team as a backend developer, contribute to impactful projects, and grow professionally.
+- 🤔 Looking for advice on how to improve performance from the backend, cloud infrastructures, and learn the best practices of system architecture.
 
 ## :fire: My Stats
 
