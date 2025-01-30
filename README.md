@@ -14,7 +14,7 @@ I'm a 3rd-year Computer Science student at Moscow Aviation Institute. A 20-year-
 
 ## :fire: My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukorp&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukorp&layout=pie&exclude_repo=mp_os)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Technologies and Tools
 <p align="center">
