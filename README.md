@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### 🌟 Welcome to my GitHub!
-My name is Timur, and I am a developer with an unyielding passion for creating top-notch code and innovative solutions.
+My name is Timur, I am a Java backend developer
 
 ## 🌟 Who am I?
-I'm a 3rd-year Computer Science student at Moscow Aviation Institute. A 20-year-old programmer passionate about writing high-quality Java code. I focus on modern technologies to build efficient and valuable projects. Always open to new challenges and learning opportunities.
+I am a 20 year old 3rd year student of the Moscow Aviation Institute. I develop web services in Java, actively voice and implement new technologies in my projects, solve complex problems with code optimization, try to follow all the principles of software development
 
 ## ✨ What do I do?
 
